@@ -2,4 +2,4 @@
 First Repository
 Hi all!
 
-It's Debi Shafer and I"m excited to learn to code! 
+I'm Debi Shafer and eager to learn to code! Woot! Woot!
